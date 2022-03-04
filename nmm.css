@@ -1,0 +1,142 @@
+
+.div3{
+    background-image:url('https://imgt.taimienphi.vn/cf/Images/tm/2018/3/7/anh-dong-8-3-happy-women-day-102.gif');
+    height:350px;
+    width:400px;
+    background-repeat: no-repeat;
+    margin-left:400px;
+}
+.div1{
+    position: relative;
+    left:535px;
+    font-size:50px;
+    font-weight: bold;
+    color:red;
+}
+.div1:hover{
+    color:dodgerblue;
+}
+.div2{
+    text-decoration: none;
+    color:red;
+    font-size:30px;
+    font-weight: bold;
+}
+.div4{
+    background-color:yellow;
+    height:200px;
+    width:200px;
+    border:solid 3px blue;
+    border-radius: 200px;
+    display: flex;
+}
+.div5{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div6{
+    background-color:yellow;
+    height:200px;
+    width:200px;
+    border:solid 3px blue;
+    border-radius: 200px;
+    display: flex;
+}
+.div7{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div8{
+    background-color:yellow;
+    height:200px;
+    width:200px;
+    border:solid 3px blue;
+    border-radius: 200px;
+    display: flex;
+}
+.div9{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div10{
+    background-color:pink;
+    height:200px;
+    width:200px;
+    border:solid 3px  greenyellow;
+    border-radius: 200px;
+    display: flex;
+}
+.div11{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div12{
+    background-color:pink;
+    height:200px;
+    width:200px;
+    border:solid 3px  greenyellow;
+    border-radius: 200px;
+    display: flex;
+}
+.div13{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div14{
+    background-color:violet;
+    height:200px;
+    width:200px;
+    border:solid 3px yellow;
+    border-radius: 200px;
+    display: flex;
+}
+.div15{
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+}
+.div18{
+    display: flex;
+}
+.div16{
+    flex:1;
+    display: flex;
+}
+.div17{
+    flex:1;
+    display:flex;
+}
+.div21{
+    flex:1;
+    display:flex;
+}
+.div22{
+    background-color:yellow;
+    height:100vh;
+    width:100%;
+}
+.div23{
+    background-image: url('https://toplist.taccdn.com/postLarge/anh-dep-chuc-mung-ngay-83-danh-tang-nguoi-yeu-cu-402113.jpg');
+}
+.div24{
+background-image: url('https://s.meta.com.vn/img/thumb.ashx/Data/image/2021/10/14/anh-tuyet-roi-1.gif');
+}
+.div25{
+    font-size:30px;
+    font-weight: bold;
+}
+.div26{
+    font-size:30px;
+    font-weight: bold;
+}
+.div27{
+    background-image: url('https://upanh123.com/wp-content/uploads/2020/12/anh-dong-tuyet-roi6.gif');
+    width:100%;
+    height:100vh;
+}
+ 
